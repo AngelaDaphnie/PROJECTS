@@ -1,0 +1,7 @@
+x = "delicious"
+
+def myfunc():
+    x= "tasty"
+    print("The pie is " + x)
+myfunc()
+print("The cake is " + x)
