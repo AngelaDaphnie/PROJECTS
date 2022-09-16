@@ -1,0 +1,7 @@
+a = int (4)
+b = float (6)
+c = str (5)
+
+print(a)
+print(b)
+print(c)
