@@ -1,0 +1,6 @@
+phones = ["Apple", "Samsung", "Oppo"]
+a,b,c = phones
+
+print(a)
+print(b)
+print(c)
