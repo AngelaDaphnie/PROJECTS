@@ -1,0 +1,7 @@
+x = "Joan"
+y = 4.5
+z = 4j
+
+print(type(x))
+print(type(y))
+print(type(z))
