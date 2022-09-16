@@ -1,0 +1,11 @@
+a = 5
+b = "4"
+c = 6.5 
+
+x = str(a)
+y = float(b)
+z = int(c)
+
+print(x)
+print(y)
+print(z)
