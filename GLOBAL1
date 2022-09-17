@@ -4,4 +4,4 @@ def myfunc():
     x= "tasty"
     print("The pie is " + x)
 myfunc()
-print("The cake is " + x)
+print("The pie is " + x)
