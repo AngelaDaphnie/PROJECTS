@@ -1,0 +1,8 @@
+def myfunc(n):
+  return lambda x : x * n
+
+mydoubler = myfunc(5)
+mytripler = myfunc(10)
+
+print(mydoubler(10))
+print(mytripler(5))
